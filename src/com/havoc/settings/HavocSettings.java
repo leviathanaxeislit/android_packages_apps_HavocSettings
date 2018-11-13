@@ -32,6 +32,9 @@ import com.android.settings.SettingsPreferenceFragment;
 
 public class HavocSettings extends SettingsPreferenceFragment {
 
+    private static final String KEY_DEVICE_PART = "xiaomi_part";
+    private static final String KEY_DEVICE_PART_PACKAGE_NAME = "com.screwd.settings.device";
+
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);

@@ -1343,4 +1343,7 @@
     <!-- Rounded corners -->
     <string name="corner_radius">Rounded Corner Radius</string>
     <string name="content_padding">Corner Content Padding</string>
+
+    <!-- Xiaomi parts -->
+	<string name="xiaomi_part_title">XiaomiParts</string>
 </resources>
